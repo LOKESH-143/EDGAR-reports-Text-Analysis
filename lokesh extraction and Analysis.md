@@ -2,7 +2,8 @@
 # Data Extraction and Text Analysis
 
 
-First function reading edar files.It will remove html tags and extract requried informtion
+first data extraction and text analysis
+
 
 
 ```python
